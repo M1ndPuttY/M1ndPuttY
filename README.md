@@ -65,7 +65,7 @@ int main() {
  
 ## 🏁Other Stuff
   - :octocat: [cnblog](https://www.cnblogs.com/passive/)
-  - 🦮[docsify](https://pass1ve.github.io/Docsify-Guide/#/)
+  - 🦮[docsify](https://puttyW.github.io/Docsify-Guide/#/)
 
 ![puttyW's github stats](https://github-readme-stats.vercel.app/api?username=puttyW&show_icons=true&hide=[%22issues%22])
  
