@@ -17,10 +17,10 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pass1ve&layout=compact">
 
 ## ⚡Programming Languages
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
+<img src = 'https://github.com/puttyW/programming-languages-logos/blob/master/src/c/c.svg' width='30'/> <img src = 'https://github.com/puttyW/programming-languages-logos/blob/master/images/cpp.svg' width='30'/>  <img src = 'https://github.com/puttyW/programming-languages-logos/blob/master/images/html.svg' width='30'/> <img src='https://github.com/puttyW/programming-languages-logos/blob/master/images/java.svg' width='30'/> <img src = 'https://github.com/puttyW/programming-languages-logos/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/puttyW/programming-languages-logos/blob/master/images/php.svg' width='40'/>
  
  ## ⚡Technologies I Use
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/android.svg' height='40'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/> 
+<img src = 'https://github.com/puttyW/programming-languages-logos/blob/master/images/android.svg' height='40'/>  <img src = 'https://github.com/puttyW/programming-languages-logos/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/puttyW/programming-languages-logos/blob/master/images/nodejs.svg' width='33'/> 
  ## 📝Who am I?
  ```C
 #include <stdio.h>
