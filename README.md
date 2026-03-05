@@ -1,31 +1,58 @@
-## Hey, [M1ndPuttY here!](https://M1ndPuttY.github.io/Docsify-Guide/#/)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=M1ndPuttY;Welcome+to+my+profile" alt="Typing SVG">
+</p>
 
-<h1>先祝你每天开心..</h1> 
+<div align="center">
 
-<img src = 'https://github.com/M1ndPuttY/M1ndPuttY/blob/main/image/xiangji.jpg' alt = 'xiangji' align='right' width="280px" height="280px"/>
+</div>
 
-<!--[![cnblog](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)](https://www.cnblogs.com/passive/) [![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:asterp04@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-The%20Broke%20Coder-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>-->
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=M1ndPuttY" alt="M1ndPuttY" /> </p>
+<div align="center">
+  <img width="200" src="https://avatars.githubusercontent.com/u/M1ndPuttY" alt="avatar" style="border-radius: 50%; border: 3px solid #58A6FF;">
+</div>
 
-<div style="text-align: right">the world's full of lonely people afraid to make the first move.. </div>
+<div align="center">
 
-## 💻Technologies I Love
-* Linux
-* Embedded
-* Machine Learning
+</div>
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pass1ve&layout=compact">
+<h3 align="center">先祝你每天开心</h3>
 
-## ⚡Programming Languages
-<img src = 'https://github.com/M1ndPuttY/M1ndPuttY/blob/main/image/src/c/c.svg' width='30'/> <img src = 'https://github.com/M1ndPuttY/M1ndPuttY/blob/main/image/src/cpp/cpp.svg' width='30'/>  <img src = 'https://github.com/M1ndPuttY/M1ndPuttY/blob/main/image/src/html/html.svg' width='30'/> <img src='https://github.com/M1ndPuttY/M1ndPuttY/blob/main/image/src/java/java.svg' width='30'/> <img src = 'https://github.com/M1ndPuttY/M1ndPuttY/blob/main/image/src/javascript/javascript.svg' width='30'/> <img src = 'https://github.com/M1ndPuttY/M1ndPuttY/blob/main/image/src/python/python.svg' width='40'/>
- 
-## Technologies I Use
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/android.svg' height='40'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/>
- 
- ## 📝Who am I?
- ```C
+<p align="center">
+  <em>the world's full of lonely people afraid to make the first move.</em>
+</p>
+
+---
+
+<div align="center">
+
+| About Me |
+|:--------:|
+| Location | XIAN, CHINA |
+| Focus | Linux · Embedded · Machine Learning |
+| Current | Learning & Building |
+
+</div>
+
+---
+
+## Technologies
+
+### Languages
+```
+C     C++   Python   Java   JavaScript   HTML/CSS
+```
+
+### Areas of Interest
+- Linux System
+- Embedded Development
+- Machine Learning / AI
+
+---
+
+## Who Am I?
+
+```c
 #include <stdio.h>
 
 struct WhoAmI {
@@ -34,8 +61,8 @@ struct WhoAmI {
     char *hobbies[4];
 };
 
-char* getcity(){
-	return "XIAN_CHINA";
+char* getcity() {
+    return "XIAN_CHINA";
 }
 
 int main() {
@@ -45,27 +72,28 @@ int main() {
         .hobbies = {
             "Model making",
             "Watching Anime",
-            "motorcycle",
-            "bicycle"
+            "Motorcycle",
+            "Bicycle"
         }
     };
 
     char* Ambitions[3];
-    Ambitions[0] = "LearnEnglish";
+    Ambitions[0] = "Learn English";
     Ambitions[1] = "Practice photography";
     Ambitions[2] = "Be Well";
 
     return 0;
 }
-	
- ```
- 
-## 🤖Current Works
- * AI
- 
-## 🏁Other Stuff
-  - :octocat: [cnblog](https://www.cnblogs.com/passive/)
-  - 🦮[docsify](https://M1ndPuttY.github.io/Docsify-Guide/#/)
+```
 
-![M1ndPuttY's github stats](https://github-readme-stats.vercel.app/api?username=M1ndPuttY&show_icons=true&hide=[%22issues%22])
- 
+---
+
+<div align="center">
+
+---
+
+[Blog](https://www.cnblogs.com/passive/) · [Docs](https://M1ndPuttY.github.io/Docsify-Guide/#/)
+
+---
+
+</div>
