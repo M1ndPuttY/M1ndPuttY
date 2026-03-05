@@ -1,54 +1,26 @@
-<div align="center">
+## Hey, [M1ndPuttY here!](https://M1ndPuttY.github.io/Docsify-Guide/#/)
 
-# 👋 Hi, I'm [M1ndPuttY](https://M1ndPuttY.github.io/Docsify-Guide/#/)
+<h1>先祝你每天开心..</h1>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=M1ndPuttY" alt="M1ndPuttY" /> </p>
 
-## 先祝你每天开心 🌸
+<div style="text-align: right">the world's full of lonely people afraid to make the first move.. </div>
 
----
+## 💻Technologies I Love
+* Linux
+* Embedded
+* Machine Learning
 
-![Profile Views](https://komarev.com/ghpvc/?username=M1ndPuttY&style=flat-square&color=blueviolet)
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=M1ndPuttY&layout=compact">
 
----
+## ⚡Programming Languages
+<img src = './image/src/c/c.svg' width='30'/> <img src = './image/src/cpp/cpp.svg' width='30'/>  <img src = './image/src/html/html.svg' width='30'/> <img src='./image/src/java/java.svg' width='30'/> <img src = './image/src/javascript/javascript.svg' width='30'/> <img src = './image/src/python/python.svg' width='40'/>
 
-### 💻 Technologies I Love
+## Technologies I Use
+<img src = './image/src/python/python.svg' width='30'/> <img src = './image/src/java/java.svg' height='40'/><img src = './image/src/go/go.svg' width='30'/> <img src = './image/src/c/c.svg' height='40'/> <img src = './image/src/cpp/cpp.svg' width='30'/> <img src = './image/src/javascript/javascript.svg' width='30'/> <img src = './image/src/typescript/typescript.svg' width='33'/>
 
-**Linux** · **Embedded** · **Machine Learning**
-
----
-
-### ⚡ Programming Languages
-
-<img src="./image/src/c/c.svg" width="40" alt="C"/>
-<img src="./image/src/cpp/cpp.svg" width="40" alt="C++"/>
-<img src="./image/src/html/html.svg" width="40" alt="HTML"/>
-<img src="./image/src/css/css.svg" width="40" alt="CSS"/>
-<img src="./image/src/java/java.svg" width="40" alt="Java"/>
-<img src="./image/src/javascript/javascript.svg" width="40" alt="JavaScript"/>
-<img src="./image/src/python/python.svg" width="45" alt="Python"/>
-
----
-
-### 🛠 Tools & Technologies
-
-<img src="./image/src/go/go.svg" width="35" alt="Go"/>
-<img src="./image/src/typescript/typescript.svg" width="35" alt="TypeScript"/>
-<img src="./image/src/kotlin/kotlin.svg" width="35" alt="Kotlin"/>
-
----
-
-### 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M1ndPuttY&layout=compact&theme=dark&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M1ndPuttY&show_icons=true&theme=dark&hide_border=true&hide=issues)
-
----
-
-### 📝 Who Am I?
-
-```c
+ ## 📝Who am I?
+ ```C
 #include <stdio.h>
 
 struct WhoAmI {
@@ -57,8 +29,8 @@ struct WhoAmI {
     char *hobbies[4];
 };
 
-char* getcity() {
-    return "XIAN_CHINA";
+char* getcity(){
+	return "XIAN_CHINA";
 }
 
 int main() {
@@ -68,37 +40,26 @@ int main() {
         .hobbies = {
             "Model making",
             "Watching Anime",
-            "Motorcycle",
-            "Bicycle"
+            "motorcycle",
+            "bicycle"
         }
     };
 
     char* Ambitions[3];
-    Ambitions[0] = "Learn English";
+    Ambitions[0] = "LearnEnglish";
     Ambitions[1] = "Practice photography";
     Ambitions[2] = "Be Well";
 
     return 0;
 }
-```
 
----
+ ```
 
-### 🤖 Current Focus
+## 🤖Current Works
+ * AI
 
-**Artificial Intelligence & Machine Learning**
+## 🏁Other Stuff
+  - :octocat: [cnblog](https://www.cnblogs.com/passive/)
+  - 🦮[docsify](https://M1ndPuttY.github.io/Docsify-Guide/#/)
 
----
-
-### 🏁 Connect With Me
-
-[![Blog](https://img.shields.io/badge/Blog-博客-blue?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0yIDNoMjB2MTRjMCAxLjEtLjkgMi0yIDJINGMtMS4xIDAtMi0uOS0yLTJWM3oiLz48cGF0aCBkPSJNOSA5bDItMiAyIDIiLz48cGF0aCBkPSJNMTUgOWwtMi0yLTIgMiIvPjxwYXRoIGQ9Ik05IDE1bDItMiAyIDIiLz48cGF0aCBkPSJNMTUgMTVsLTItMi0yIDIiLz48L3N2Zz4=)](https://www.cnblogs.com/passive/)
-[![Docs](https://img.shields.io/badge/Docs-Docsify-orange?style=flat-square&logo=book)](https://M1ndPuttY.github.io/Docsify-Guide/#/)
-
----
-
-<em>the world's full of lonely people afraid to make the first move.</em>
-
----
-
-</div>
+![M1ndPuttY's github stats](https://github-readme-stats.vercel.app/api?username=M1ndPuttY&show_icons=true&hide=[%22issues%22])
