@@ -1,56 +1,52 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=M1ndPuttY;Welcome+to+my+profile" alt="Typing SVG">
-</p>
-
 <div align="center">
 
-</div>
+# 👋 Hi, I'm [M1ndPuttY](https://M1ndPuttY.github.io/Docsify-Guide/#/)
 
 ---
 
-<div align="center">
-  <img width="200" src="https://avatars.githubusercontent.com/u/M1ndPuttY" alt="avatar" style="border-radius: 50%; border: 3px solid #58A6FF;">
-</div>
-
-<div align="center">
-
-</div>
-
-<h3 align="center">先祝你每天开心</h3>
-
-<p align="center">
-  <em>the world's full of lonely people afraid to make the first move.</em>
-</p>
+## 先祝你每天开心 🌸
 
 ---
 
-<div align="center">
-
-| About Me |
-|:--------:|
-| Location | XIAN, CHINA |
-| Focus | Linux · Embedded · Machine Learning |
-| Current | Learning & Building |
-
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=M1ndPuttY&style=flat-square&color=blueviolet)
 
 ---
 
-## Technologies
+### 💻 Technologies I Love
 
-### Languages
-```
-C     C++   Python   Java   JavaScript   HTML/CSS
-```
-
-### Areas of Interest
-- Linux System
-- Embedded Development
-- Machine Learning / AI
+**Linux** · **Embedded** · **Machine Learning**
 
 ---
 
-## Who Am I?
+### ⚡ Programming Languages
+
+<img src="./image/src/c/c.svg" width="40" alt="C"/>
+<img src="./image/src/cpp/cpp.svg" width="40" alt="C++"/>
+<img src="./image/src/html/html.svg" width="40" alt="HTML"/>
+<img src="./image/src/css/css.svg" width="40" alt="CSS"/>
+<img src="./image/src/java/java.svg" width="40" alt="Java"/>
+<img src="./image/src/javascript/javascript.svg" width="40" alt="JavaScript"/>
+<img src="./image/src/python/python.svg" width="45" alt="Python"/>
+
+---
+
+### 🛠 Tools & Technologies
+
+<img src="./image/src/go/go.svg" width="35" alt="Go"/>
+<img src="./image/src/typescript/typescript.svg" width="35" alt="TypeScript"/>
+<img src="./image/src/kotlin/kotlin.svg" width="35" alt="Kotlin"/>
+
+---
+
+### 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M1ndPuttY&layout=compact&theme=dark&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M1ndPuttY&show_icons=true&theme=dark&hide_border=true&hide=issues)
+
+---
+
+### 📝 Who Am I?
 
 ```c
 #include <stdio.h>
@@ -88,11 +84,20 @@ int main() {
 
 ---
 
-<div align="center">
+### 🤖 Current Focus
+
+**Artificial Intelligence & Machine Learning**
 
 ---
 
-[Blog](https://www.cnblogs.com/passive/) · [Docs](https://M1ndPuttY.github.io/Docsify-Guide/#/)
+### 🏁 Connect With Me
+
+[![Blog](https://img.shields.io/badge/Blog-博客-blue?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0yIDNoMjB2MTRjMCAxLjEtLjkgMi0yIDJINGMtMS4xIDAtMi0uOS0yLTJWM3oiLz48cGF0aCBkPSJNOSA5bDItMiAyIDIiLz48cGF0aCBkPSJNMTUgOWwtMi0yLTIgMiIvPjxwYXRoIGQ9Ik05IDE1bDItMiAyIDIiLz48cGF0aCBkPSJNMTUgMTVsLTItMi0yIDIiLz48L3N2Zz4=)](https://www.cnblogs.com/passive/)
+[![Docs](https://img.shields.io/badge/Docs-Docsify-orange?style=flat-square&logo=book)](https://M1ndPuttY.github.io/Docsify-Guide/#/)
+
+---
+
+<em>the world's full of lonely people afraid to make the first move.</em>
 
 ---
 
